@@ -1,0 +1,10 @@
+[
+  {
+    "system": "Web application",
+    "task": "Check login workflow for vulnerabilities"
+  },
+  {
+    "system": "URL scanning",
+    "task": "Analyze if URL could be malicious"
+  }
+]
