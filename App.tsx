@@ -1,3 +1,7 @@
+# © 2026 FATIMA AL ZAHRA — AXON | Synaptic System Rsilience
+# All Rights Reserved. Unauthorized use prohibited.
+    
+
 
 import React, { useState } from 'react';
 import { analyzeSystemSecurity } from './services/geminiService';
