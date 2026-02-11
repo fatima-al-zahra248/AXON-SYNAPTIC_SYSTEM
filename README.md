@@ -1,10 +1,20 @@
 
 # AXON | Synaptic System Resilience
 
+## ⚠️ Proprietary Notice
+
+This project is proprietary software developed under the AXON Synaptic System brand.
+
+The source code is made publicly visible for demonstration and educational reference only.
+
+You are NOT permitted to copy, use, modify, distribute, or create derivative works from this code.
+
+All rights reserved by the author.
+
 ## 🛡️ Overview
 AXON | Synaptic System Resilience is a **cybersecurity productivity tool** designed to help users **analyze digital systems like a hacker** and quickly identify security risks. Built with **React and TypeScript**, this tool integrates AI-powered suggestions while maintaining a seamless, interactive interface.  
 
-Whether you’re assessing web applications, URLs, or workflows, AXON simulates an attacker’s mindset to provide **high-level, low-level, and critical security insights** — all presented in an intuitive interface.  
+
 
 ---
 
@@ -23,25 +33,6 @@ Whether you’re assessing web applications, URLs, or workflows, AXON simulates 
 - Or view the attached **screen-recorded demo** for a complete walkthrough of the interface and security workflow.  
 
 ---
-
-## 🗂️ Project Structure
-
-AXON | Synaptic System Resilience/
-│
-├─ index.tsx # Main React entry point
-├─ App.tsx # Main app component
-├─ components/ # Reusable React components
-│ ├─ AnalysisCard.tsx
-│ └─ SeverityBadge.tsx
-├─ services/ # Business logic and AI integration
-│ └─ VideoService.ts
-├─ package.json # Dependencies
-├─ tsconfig.json # TypeScript configuration
-├─ metadata.json # Sample data input
- ├─screenshots/
-     └─scenario_analysis
-      └─web_app_analysis
-├─AXON  Synaptic System Resilience Demo
 
 
 ---
